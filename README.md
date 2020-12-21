@@ -13,6 +13,7 @@ mvn clean install
 ```
 
 Steps to run application:
+- Import maven project into IDE
 
 - Right click on project -> Run as -> Java application -> Select PharmacyLocationFinderApplication -> Click 'Ok'
 
